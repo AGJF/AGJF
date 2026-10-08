@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Goh Zhe Jun Aloysius👋
+Second-year Computer Science @ NTU CCDS.
+
+## Things I've built
+<ul>
+  <li>CutCart - Deterministic Agentic Search Engine for TikTok TechJam 2026</li>
+  <li>Customer Support Triage Agent - A Serverless, stateful multi-turn customer support harness</li>
+  <li>MultiFILES ChatAPP - A robust multi-document RAG pipeline for NTU Mock GSoC</li>
 
 <!--
 **AGJF/AGJF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
